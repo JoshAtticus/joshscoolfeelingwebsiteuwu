@@ -4,10 +4,26 @@
     <script>if(!sessionStorage.getItem("_swa")&&document.referrer.indexOf(location.protocol+"//"+location.host)!== 0){fetch("https://counter.dev/track?"+new URLSearchParams({referrer:document.referrer,screen:screen.width+"x"+screen.height,id:"5fc1a18f-e620-4b66-808f-48af4de2d8db",utcoffset:"8"}))};sessionStorage.setItem("_swa","1");</script>
     <link rel="stylesheet" href="style.css">
   </head>
-  <h2>Josh is feeling</h2>
-  <iframe src="feeling.html" frameBorder="0"></iframe>
-  <br>
-  <h3>Josh's iMood shows he is feeling <img src="https://moods.imood.com/display/uname-JoshAtticus/trans-1/imood.gif"></h3>
-  <h6><i>Psst! If my iMood isn't loading, you can view it <a href="https://www.imood.com/users/JoshAtticus">here instead!</a></i></h6>
+  <style>
+    body {
+        background: black }
+    section {
+        background: grey;
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%) }
+  </style>
+  <section>
+    <h2>Josh is feeling</h2>
+    <iframe src="feeling.html" frameBorder="0"></iframe>
+    <br>
+    <h3>Josh's iMood shows he is feeling <img src="https://moods.imood.com/display/uname-JoshAtticus/trans-1/imood.gif"></h3>
+    <h6><i>Psst! If my iMood isn't loading, you can view it <a href="https://www.imood.com/users/JoshAtticus">here instead!</a></i></h6>
+  </section>
 </html>
     

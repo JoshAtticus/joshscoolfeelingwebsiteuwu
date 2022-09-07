@@ -1,15 +1,15 @@
 <STYLE TYPE='text/css'>
 
 BODY{ font-family:sans-serif; font-size:medium; font-weight:normal; }
-P{ font-size:small; font-family:sans-serif; font-weight:normal; }
-H1{ font-size:xx-large; font-family:sans-serif; font-weight:normal; }
-H2{ font-size:x-large; font-family:sans-serif; font-weight:normal; }
-H3{ font-size:large; font-family:sans-serif; font-weight:normal; }
-H4{ font-size:medium; font-family:sans-serif; font-weight:normal; }
-H5{ font-size:small; font-family:sans-serif; font-weight:normal; }
-H6{ font-size:smaller; font-family:sans-serif; font-weight:normal; }
-PRE{ font-size:medium; font-family:sans-serif; font-weight:normal; }
-A{ font-family:sans-serif; font-size:normal; }
-SPAN{ font-family:sans-serif; font-size:normal; }
+P{ text-align:centre; font-size:small; font-family:sans-serif; font-weight:normal; }
+H1{ text-align:centre; font-size:xx-large; font-family:sans-serif; font-weight:normal; }
+H2{ text-align:centre; font-size:x-large; font-family:sans-serif; font-weight:normal; }
+H3{ text-align:centre; font-size:large; font-family:sans-serif; font-weight:normal; }
+H4{ text-align:centre; font-size:medium; font-family:sans-serif; font-weight:normal; }
+H5{ text-align:centre; font-size:small; font-family:sans-serif; font-weight:normal; }
+H6{ text-align:centre; font-size:smaller; font-family:sans-serif; font-weight:normal; }
+PRE{ text-align:centre; font-size:medium; font-family:sans-serif; font-weight:normal; }
+A{ text-align:centre; font-family:sans-serif; font-size:normal; }
+SPAN{ text-align:centre; font-family:sans-serif; font-size:normal; }
 font-family:sans-serif; font-size:small; A:Hover{ font-family:sans-serif; font-size:small; }
 </STYLE>
