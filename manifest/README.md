@@ -1,8 +1,15 @@
-<html>
-  <head>
-    <!--Don't modify any of the code in here!-->
-    <link rel="stylesheet" href="style.css">
-    <title>Internal Document</title>
+# Your Favicon Package
+
+This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
+
+## Install instructions
+
+To install this package:
+
+Extract this package in <code>https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/</code>. For example, you should be able to access a file named <code>https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/favicon.ico</code>.
+
+Insert the following code in the `head` section of your pages:
+
     <link rel="apple-touch-icon" sizes="180x180" href="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/apple-touch-icon.png?v2=true">
     <link rel="icon" type="image/png" sizes="32x32" href="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/favicon-32x32.png?v2=true">
     <link rel="icon" type="image/png" sizes="16x16" href="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/favicon-16x16.png?v2=true">
@@ -15,18 +22,5 @@
     <meta name="msapplication-TileImage" content="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/mstile-144x144.png?v2=true">
     <meta name="msapplication-config" content="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/browserconfig.xml?v2=true">
     <meta name="theme-color" content="#ffffff">
-  </head>
-  <style>
-    body {
-        background: gray }
-    section {
-        background: grey;
-        color: white; }
-  </style>
-  <section>
-   <!--Edit the text below to set your feeling-->
-   <h1>😐 Bored</h1>
-   <!--Edit the text below to set a description for your feeling-->
-   <h3>It's the end of the day and I don't know what to do.</h3>
-  </section>
-</html>
+
+*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
