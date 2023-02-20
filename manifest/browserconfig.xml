@@ -2,10 +2,10 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/mstile-70x70.png?v2=true"/>
-            <square150x150logo src="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/mstile-150x150.png?v2=true"/>
-            <square310x310logo src="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/mstile-310x310.png?v2=true"/>
-            <wide310x150logo src="https://www.joshatticus.eu.org/joshscoolfeelingwebsiteuwu/manifest/mstile-310x150.png?v2=true"/>
+            <square70x70logo src="https://joshisfeeling.pages.dev/manifest/mstile-70x70.png?v2=true"/>
+            <square150x150logo src="https://joshisfeeling.pages.dev/manifest/mstile-150x150.png?v2=true"/>
+            <square310x310logo src="https://joshisfeeling.pages.dev/manifest/mstile-310x310.png?v2=true"/>
+            <wide310x150logo src="https://joshisfeeling.pages.dev/manifest/mstile-310x150.png?v2=true"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
