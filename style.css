@@ -17,6 +17,48 @@ A {
     font-family: simvoni, 'Noto Color Emoji';
 }
 
+H1 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
+H2 {
+    text-align: center;
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
+H3 {
+    text-align: center;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
+H4 {
+    text-align: center;
+    font-size: large;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
+H5 {
+    text-align: center;
+    font-size: medium;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
+H6 {
+    text-align: center;
+    font-size: small;
+    color: rgb(255, 255, 255);
+    font-family: simvoni, 'Noto Color Emoji';
+}
+
 Body {
     text-align: center;
     font-size: medium;
