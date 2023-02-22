@@ -4,18 +4,24 @@
 	font-display: swap;
 }
 
+@font-face {
+    font-family: 'Noto Color Emoji';
+    src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+  }
+  
+
 A {
     text-align: center;
     font-size: normal;
     color: rgb(255, 255, 255);
-    font-family: simvoni;
+    font-family: simvoni, 'Noto Color Emoji';
 }
 
 Body {
     text-align: center;
     font-size: medium;
     color: rgb(255, 255, 255);
-    font-family: simvoni;
+    font-family: simvoni, 'Noto Color Emoji';
 }
 
 /* BODY{ font-family:sans-serif; font-size:medium; font-weight:normal; }
