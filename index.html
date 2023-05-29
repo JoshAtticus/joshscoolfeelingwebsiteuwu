@@ -34,12 +34,15 @@
         left: 50%;
         margin-right: -50%;
         max-width: 50%;
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
         transform: translate(-50%, -50%) }
   </style>
   <section>
     <center>
     <h1>Josh is feeling</h1>
-    <iframe src="feeling.html" frameBorder="0"></iframe>
+    <iframe src="feeling.html" frameBorder="0" style="flex-grow: 1; display: flex; flex-direction: column;"></iframe>
     <br>
     <h3>Changelog</h3>
     <p>Emojis are now Noto Color Emoji, so they actually look good on Windbloat.</p>
